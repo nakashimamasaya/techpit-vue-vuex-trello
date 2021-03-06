@@ -2,6 +2,8 @@
 こちらの記事の学習ログ
 https://www.techpit.jp/courses/24
 
+npm じゃなくてyarnでやってます
+
 # my-trello
 
 ## Project setup
