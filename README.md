@@ -1,3 +1,7 @@
+# What
+こちらの記事の学習ログ
+https://www.techpit.jp/courses/24
+
 # my-trello
 
 ## Project setup
